@@ -1,5 +1,6 @@
 package de.sopra.persistence.models;
 
+// test
 public class Person {
 	
 	private int id;
